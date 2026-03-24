@@ -1,9 +1,9 @@
 # E-Commerce Analytics & Customer Intelligence Platform
 
-An end-to-end data analytics platform built on a real UK e-commerce dataset. Goes beyond basic charts to actually answer business questions — which customers are valuable, which are slipping away, and what their future spend might look like.
+An end-to-end data analytics platform built on a real UK e-commerce dataset. Goes beyond basic charts to actually answer business questions - which customers are valuable, which are slipping away, and what their future spend might look like.
 
 The platform supports:
-- Automated data cleaning and SQL-based storage
+- Automated data cleaning and SQL based storage
 - Business performance tracking via SQL queries
 - RFM segmentation (Recency, Frequency, Monetary)
 - CLV prediction (Customer Lifetime Value) with model comparison
@@ -174,7 +174,7 @@ Gradient Boosting was chosen as the final model because it successfully maps the
 
 - Started with ~500K rows, cleaned down to ~380K after removing cancelled orders, null IDs, and bad entries
 - 633 Champion customers identified as the top revenue drivers
-- Top products follow the Pareto principle — a small subset drives the majority of revenue
+- Top products follow the Pareto principle : a small subset drives the majority of revenue
 - Peak order hours consistently fall between 11am and 2pm
 - KMeans clustering clearly separated high-value outliers (Platinum) from the broader base (Bronze)
 
@@ -198,4 +198,4 @@ Gradient Boosting was chosen as the final model because it successfully maps the
 
 Made with ❤️ by Jayesh Kaushik
 
-Questions? Issues? [Open a GitHub issue](https://github.com/jayeshkaushik1/Retail-Customer-Analytics/issues)
+Questions? Issues? [Open a GitHub issue](https://github.com/jayeshkaushik1/Retail-Customer-Analytics-Segmentation/issues)
